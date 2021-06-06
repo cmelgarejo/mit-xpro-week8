@@ -18,7 +18,7 @@ Clone the repository and open with your IDE/Text editor
 
 ### Step 2
 
-Open the pacman.js file to edit the behaivor as needed.
+Open the file to edit the behaivor as needed.
 
 ### Step 3
 
